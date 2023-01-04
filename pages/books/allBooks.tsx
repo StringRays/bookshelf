@@ -1,10 +1,10 @@
 import _ from "lodash";
 
-export default function allAuthors() {
+export default function allBooks() {
     return (
         <div>
             <div>
-            All Authors
+            All Books
             </div>
             <div>
                 

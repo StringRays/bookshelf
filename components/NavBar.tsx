@@ -10,6 +10,9 @@ export default function NavBar() {
             <Link href="/authors/allAuthors">
                 All Authors
             </Link>
+            <Link href="/books/allBooks">
+                All Books
+            </Link>
         </div>
     )
 }
